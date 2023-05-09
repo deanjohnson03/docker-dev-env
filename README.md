@@ -15,3 +15,7 @@ Then run the environment with the below command:
 ```bash
 php -S localhost:8080
 ```
+
+The development environment is powered using the docker-compose file, in this project it's called `compose-dev.yaml`.
+
+You fill out what the development environment needs to run.
