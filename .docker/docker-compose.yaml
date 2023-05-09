@@ -1,4 +1,4 @@
 services:
   php:
-    image: php:latest
+    image: mcr.microsoft.com/devcontainers/php:0-8.2
     command: composer require slim/slim:3.*
