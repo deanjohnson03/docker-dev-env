@@ -13,6 +13,7 @@ composer install
 
 Then run the environment with the below command:
 ```bash
+cd src/public/
 php -S localhost:8080
 ```
 
