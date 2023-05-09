@@ -11,7 +11,7 @@ Use the below command to install the dependencies of the project: (slim)
 composer install
 ```
 
-Then run the environment with the below command:
+Then run the environment with the below commands:
 ```bash
 cd src/public/
 php -S localhost:8080
