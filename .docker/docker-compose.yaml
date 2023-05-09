@@ -1,3 +1,4 @@
 services:
-  app:
+  php:
     image: php:latest
+    command: composer require slim/slim:3.*
